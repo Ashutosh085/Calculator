@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:ital,wght@1,500&family=Itim&family=Poppins&family=Ubuntu&family=Varela+Round&display=swap');
+
+body{
+    background-color: black;
+    color: aliceblue;
+}
+
+.container{
+    text-align: center;
+    margin-top: 23px;
+    font-family: 'Itim', cursive;
+}
+
+table{
+    margin: auto;
+}
+
+input{
+    font-size: 34px;
+    border: 2px solid red;
+    border-radius: 9px;
+}
+
+button{
+    font-size: 28px;
+    background-color: rgb(34, 33, 33);
+    color: aliceblue;
+    width: 102px;
+    height: 58px;
+    border-radius: 7px;
+    border: 2px solid rgb(173, 180, 186);
+    cursor: pointer;
+}
+ button:hover{
+    color: rgb(239, 145, 239);
+}
+
+.calculator{
+    border: 2px solid gray;
+    display: inline-block;
+    padding: 15px 15px;
+    background-color: rgb(35, 35, 35);
+    border-radius:12px;
+   
+}
+
+/* #zero{ 
+    width: 30px
+} */
